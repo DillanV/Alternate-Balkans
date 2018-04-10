@@ -1,0 +1,21 @@
+state={
+	id=767
+	name="STATE_767"
+
+	state_category = rural
+
+	history={
+	    owner = BUL
+	    buildings = {
+	    industrial_complex = 1
+	    }
+    add_core_of = TUR
+    }
+
+
+	provinces={
+		6864 6912 9887 
+	}
+	manpower=70000
+	buildings_max_level_factor=1.000
+}
