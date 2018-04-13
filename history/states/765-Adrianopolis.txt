@@ -6,7 +6,7 @@ state={
 		owner = BUL
 		buildings = {
 			infrastructure = 2
-			arms_factor=1
+			arms_factory=1
 
 		}
 		
