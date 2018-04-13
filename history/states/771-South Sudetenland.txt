@@ -1,6 +1,6 @@
 state={
-	id=762
-	name="STATE_762"
+	id=771
+	name="STATE_771"
 	manpower=509400
 	history={
 		owner = AUS
