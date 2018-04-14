@@ -1,11 +1,15 @@
 ﻿capital = 107
 
-#oob = "YUG_1936"
+<<<<<<< HEAD
+oob = "SER_1936"
+=======
+oob = "YUG_1936"
+>>>>>>> 038606e4d4b9fc887d5bc81c0ec9fa1d3ba68ab1
 
 set_research_slots = 3
 
 add_ideas = {
-	anti_german_military
+	#anti_german_military
 }
 
 set_technology = {
