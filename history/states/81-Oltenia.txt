@@ -3,7 +3,7 @@ state={
 	id=81
 	name="STATE_81"
 
-	history={
+	history = {
 		owner = BUL
 		buildings = {
 			infrastructure = 5
@@ -14,7 +14,7 @@ state={
 
 	}
 
-	provinces={
+	provinces = {
 		637 3630 3645 6652 11588 11657 
 	}
 	manpower=1519300

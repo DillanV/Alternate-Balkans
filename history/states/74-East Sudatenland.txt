@@ -7,21 +7,15 @@ state=
 	state_category = rural
 	
 	
-	history=
-	{
+	history = {
 		owner = AUS
 		buildings = {
 			infrastructure = 7
 			arms_factory = 1
 		}
 		add_core_of = AUS
-
-		1938.9.30 = {
-			owner = GER
-			controller = GER
-		}
 	}
-	provinces= {
+	provinces = {
 		421 3414 3583 6485
  	}
 }

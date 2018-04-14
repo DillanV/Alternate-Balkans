@@ -5,13 +5,13 @@ state={
 	state_category = town
 
 	history={
-	         owner = CRO
-	         buildings = {
-	         infrastructure = 1
-	         industrial_complex = 1
-	         }
-	         add_core_of = CRO
-}
+	    owner = CRO
+	    buildings = {
+	    infrastructure = 1
+			industrial_complex = 1
+	        }
+	    add_core_of = CRO
+	}	
 
 	provinces={
 		3985 6614 6619 6957 6983 9586 9588 
