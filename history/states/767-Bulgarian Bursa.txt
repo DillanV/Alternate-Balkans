@@ -2,7 +2,7 @@ state={
 	id=767
 	name="STATE_767"
 
-	state_category = rural
+	state_category = town
 
 	history={
 	    owner = BUL
@@ -16,6 +16,6 @@ state={
 	provinces={
 		6864 6912 9887 
 	}
-	manpower=70000
+	manpower=72380
 	buildings_max_level_factor=1.000
 }
