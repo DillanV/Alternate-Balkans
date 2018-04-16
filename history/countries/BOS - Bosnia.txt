@@ -1,6 +1,6 @@
 ﻿capital = 104
 
-oob = "YUG_1936"
+#oob = "YUG_1936" #remove the hastags when you want to make a OOB
 
 set_research_slots = 3
 
