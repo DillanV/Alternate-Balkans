@@ -208,12 +208,19 @@ ideologies = {
 	
 		monarchism = {
 	
+	
 		types = {
 		
-			absolute  = {
+			absolutism  = {
 			}
 			
 			constitutional  = {
+			}
+			
+			dualism = {
+			}
+			
+			theocratic = {
 			}
 		}
 
