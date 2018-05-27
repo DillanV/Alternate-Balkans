@@ -1,12 +1,12 @@
 ﻿capital = 104
 
-#oob = "YUG_1936" #remove the hastags when you want to make a OOB
+oob = "YUG_1936"
 
 set_research_slots = 3
 
 
 add_ideas = {
-	#anti_german_military
+	anti_german_military
 }
 
 set_technology = {

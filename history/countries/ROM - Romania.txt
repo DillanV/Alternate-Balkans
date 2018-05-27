@@ -170,22 +170,20 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 5
+			popularity = 20
 		}
 
 		fascism = {
-			popularity = 20
+			popularity = 18
 		}
 		
 		communism = {
-			popularity = 0
+			popularity = 2
 		}
 		
 		neutrality = { 
-			popularity = 0
+			popularity = 60
 		}
-		monarchism = {
-			popularity = 75
 	}
 	
 	ruling_party = neutrality
@@ -197,27 +195,25 @@ set_politics = {
 1939.1.1 = {
 	set_politics = {
 
-	parties = {
-		democratic = { 
-			popularity = 5
-		}
+		parties = {
+			democratic = { 
+				popularity = 20
+			}
 
-		fascism = {
-			popularity = 20
+			fascism = {
+				popularity = 35
+			}
+			
+			communism = {
+				popularity = 2
+			}
+			
+			neutrality = { 
+				popularity = 43
+			}
 		}
 		
-		communism = {
-			popularity = 0
-		}
-		
-		neutrality = { 
-			popularity = 0
-		}
-		monarchism = {
-			popularity = 75
-	}
-		
-		ruling_party = monarchism
+		ruling_party = neutrality
 		last_election = "1939.7.15"
 		election_frequency = 48
 		elections_allowed = no
@@ -274,17 +270,6 @@ create_country_leader = {
 	picture = "Portrait_Romania_Ion_Antonescu.dds"
 	expire = "1965.1.1"
 	ideology = fascism_ideology
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Carol II of Romania"
-	desc = ""
-	picture = "gfx/leaders/ROM/Portrait_Romania_King_Carol.dds"
-	expire = "1965.1.1"
-	ideology = constitutional
 	traits = {
 		#
 	}

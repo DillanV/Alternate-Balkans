@@ -1,0 +1,17 @@
+state={
+	id=772
+	name="STATE_772"
+	history = {
+		owner = CRO
+		add_core_of = CRO
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces={
+		591 984 3601 6611 11564 11901 
+	}
+	manpower=100627
+	state_category=rural
+	buildings_max_level_factor=1.000
+}

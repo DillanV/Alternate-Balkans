@@ -2,17 +2,13 @@
 state={
 	id=102
 	name="STATE_102"
-	resources={
-		steel=8
-		tungsten=2
-	}
 
 	history={
 		owner = SLV
 		buildings = {
 			infrastructure = 6
-			industrial_complex=2
-			arms_factory=1
+			industrial_complex = 2
+			arms_factory = 1
 
 		}
 		victory_points = {
@@ -23,7 +19,7 @@ state={
 	}
 
 	provinces={
-		596 3631 3654 6650 9596 9627 11612 
+		596 665 3631 3654 6650 9596 9627 11612 
 	}
 	manpower=1144300
 	buildings_max_level_factor=1.000

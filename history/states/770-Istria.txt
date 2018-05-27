@@ -1,13 +1,13 @@
 state={
 	id=770
-	name="STATE_770" #New Istrian Slovenian State
-	
+	name="STATE_770"
+
 	history={
 		owner = SLV
 		buildings = {
 			infrastructure = 4
-			arms_factory=1
-			dockyard=1
+			arms_factory = 1
+			dockyard = 1
 
 		}
 		victory_points = {
@@ -17,11 +17,9 @@ state={
 		add_core_of = ITA
 
 	}
-	
-	
-	
+
 	provinces={
-		599 6626 11735 
+		599 6626 11595 11735 
 	}
 	manpower=582306
 	buildings_max_level_factor=1.000
